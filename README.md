@@ -55,9 +55,10 @@ The core "Signal Processing" of the data includes a **Conditional Split**, **Loo
 * **Status:** 100% Success (All components Green)
 * **Validation:** Verified via SQL Server Management Studio (SSMS).
 
-![SQL Count Results](docs/architecture/sql_verify.png)
-> *Placeholder: Insert a screenshot of your SQL query results showing the 1,770 rows.*
-
+<div align="center">
+  <img src="docs/architecture/sql_verify.png" alt="SQL Count Results" width="400px">
+  <p><i>SQL verification confirming total row count</i></p>
+</div>
 ---
 
 ## How to Run
