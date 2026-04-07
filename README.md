@@ -10,7 +10,7 @@ This project implements an automated ETL (Extract, Transform, Load) pipeline usi
 ### Control Flow Logic
 The process is wrapped in a **Foreach Loop Container** to ensure the system scales automatically as new CSV files are added to the source directory.
 
-![Control Flow Diagram](images/Screenshot 2026-04-06 154233.png)
+images/Screenshot 2026-04-06 154233.png
 
 
 
