@@ -25,9 +25,10 @@ The process is wrapped in a **Foreach Loop Container** to ensure the system scal
 ### Data Flow Logic
 The core "Signal Processing" of the data includes a **Conditional Split**, **Lookup Transformation**, and **Data Conversion** bridge.
 
-![Data Flow Diagram](docs/architecture/data_flow.png)
-> *Placeholder: Insert your final green 1,770-row Data Flow screenshot here.*
-
+<div align="center">
+  <img src="docs/architecture/data_flow.png" alt="Data Flow Diagram" width="850px">
+  <p><i>Finalized Data Flow showing 1,770 rows processed successfully</i></p>
+</div>
 
 
 ---
