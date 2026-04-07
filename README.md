@@ -56,7 +56,7 @@ The core "Signal Processing" of the data includes a **Conditional Split**, **Loo
 * **Validation:** Verified via SQL Server Management Studio (SSMS).
 
 <div align="center">
-  <img src="docs/architecture/sql_verify.png" alt="SQL Count Results" width="400px">
+  <img src="images/Screenshot 2026-04-07 164326.png" alt="SQL Count Results" width="400px">
   <p><i>SQL verification confirming total row count</i></p>
 </div>
 ---
