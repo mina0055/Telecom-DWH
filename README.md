@@ -26,7 +26,7 @@ The process is wrapped in a **Foreach Loop Container** to ensure the system scal
 The core "Signal Processing" of the data includes a **Conditional Split**, **Lookup Transformation**, and **Data Conversion** bridge.
 
 <div align="center">
-  <img src="images/Screenshot 2026-04-06 154503.png" alt="Data Flow Diagram" width="850px">
+  <img src="images/Screenshot 2026-04-06 154503.png" alt="Data Flow Diagram" width="700px">
   <p><i>Finalized Data Flow showing 1,770 rows processed successfully</i></p>
 </div>
 
@@ -56,7 +56,7 @@ The core "Signal Processing" of the data includes a **Conditional Split**, **Loo
 * **Validation:** Verified via SQL Server Management Studio (SSMS).
 
 <div align="center">
-  <img src="images/Screenshot 2026-04-07 164326.png" alt="SQL Count Results" width="400px">
+  <img src="images/Screenshot 2026-04-07 164326.png" alt="SQL Count Results" width="700px">
   <p><i>SQL verification confirming total row count</i></p>
 </div>
 ---
